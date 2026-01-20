@@ -1,4 +1,4 @@
-# Kaggle Notebooks
+# Notebooks from Kaggle
 
 This repo contains the Kaggle notebooks and code runs in Jupyter Notebooks run on Kaggle platforms. The exercises committed to this repo are the ones that are given as assignments on Kaggle for machine-learning and SQL certifications.
 
